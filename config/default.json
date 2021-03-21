@@ -1,0 +1,11 @@
+{
+  "mysql": {
+    "database": "api_pet_shop",
+    "username": "root",
+    "password": "admin",
+    "host": "localhost"
+  },
+  "api": {
+    "port": 3000
+  }
+}

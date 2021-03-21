@@ -1,0 +1,28 @@
+{
+  "name": "alura-api-rest-padronizada-e-escalavel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnocosta/alura-api-rest-padronizada-e-escalavel.git"
+  },
+  "author": "Magno Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnocosta/alura-api-rest-padronizada-e-escalavel/issues"
+  },
+  "homepage": "https://github.com/magnocosta/alura-api-rest-padronizada-e-escalavel#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.6.0"
+  }
+}
